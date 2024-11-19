@@ -1,0 +1,44 @@
+body {
+
+    background-color: #235d45;
+    border: 2px solid Gray;
+    border-radius: 16px; /* Fixed casing */
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1024px;
+    min-width: 256px;
+    padding: 8px 24px 24px 24px; /* Combined padding properties */
+
+
+
+}
+html{
+    background-image: url("C:\Users\Acer\3D Objects\coding stuff\Koi's Pond (Website)\images\bg-beige.png") ;
+}
+
+/* unvisited link */
+a:link {
+    color: yellow;
+  }
+  /* visited link */
+  a:visited {
+    color: white;
+  }
+  /* mouse over link */
+  a:hover {
+    color: teal;
+  }
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+h1 {
+    color: white;
+  }
+
+p {
+    color: white
+}

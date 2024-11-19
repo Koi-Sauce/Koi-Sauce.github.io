@@ -1,3 +1,16 @@
 body {
+    background-color: #aaf031;
+    border: 2px solid Gray;
+    border-radius: 16px; /* Fixed casing */
     font-family: 'Courier New', Courier, monospace;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1024px;
+    min-width: 256px;
+    padding: 8px 24px 24px 24px; /* Combined padding properties */
+}
+
+html {
+    background: radial-gradient(circle, SkyBlue, SkyBlue 50%, LightCyan 50%, SkyBlue);
+    background-size: 8px 8px; /* Fixed the colon */
 }
