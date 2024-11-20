@@ -1,5 +1,3 @@
-redoing stuff near constantly at this point.
+This is my personal website pet project I've been working on.
 
-It's just my personal site to shove a few neat things on to say I was here on this digital landscape
-
-I still need to find a host for this website or maybe i won't host it
+It's nothing special (yet) but I'll hopefully learn to improve it as this is my first foray into building one with html
